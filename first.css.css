@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+   background-color: lightgrey;
+   display: flex;
+}
+.hello{
+    text-align: center;
+   padding: 0 20px 0 0;
+   margin-left: 40%;
+}
+.out{
+     text-align: center;
+
+}
+#center{
+ text-align: center;
+}
+.script{
+    .java{
+        
+    }
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7%;
+    margin-left: 15%;
+    margin-right:15% ;
+}
+.red{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin-right: 50px;
+}
+
+
+
+.blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+   border: 1px solid black;
+    margin-right: 50px;
+}  
+
+.green{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+   border: 1px solid black;
+    margin-right: 50px;
+}
+
+.yellow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+   border: 1px solid black;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+}
+.button{
+    background-color: darkgray;
+    padding: 10px 10px 10px 10px;
+}@media(max-width: 560px){
+    .nav{
+        width: 100%;
+    }
+    .box{
+        display: grid;
+        gap: 10px;
+        margin-left: 110px;
+        margin-right: 100px;
+        align-items: center;
+        justify-content: center;
+    }
+    .form{
+        display: grid;
+        gap: 10px;
+        margin-left: 100px;
+        margin-right: 150px;
+    }
+}
+
