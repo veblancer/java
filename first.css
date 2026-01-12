@@ -85,7 +85,9 @@
 .button{
     background-color: darkgray;
     padding: 10px 10px 10px 10px;
-}@media(max-width: 560px){
+}
+
+@media (max-width : 560px){
     .nav{
         width: 100%;
     }
@@ -104,4 +106,5 @@
         margin-right: 150px;
     }
 }
+
 
