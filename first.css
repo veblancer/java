@@ -94,10 +94,13 @@
     .hello{
         margin-right:100%;
 }
+    .out{
+        display:block;
+    }
     .box{
         display: grid;
         gap: 10px;
-        margin-left: 120px;
+        margin-left: 130px;
         margin-right: 100px;
         align-items: center;
         justify-content: center;
@@ -105,10 +108,11 @@
     .form{
         display: grid;
         gap: 10px;
-        margin-left: 130px;
+        margin-left: 110px;
         margin-right: 120px;
     }
 }
+
 
 
 
