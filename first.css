@@ -92,7 +92,7 @@
         width: 100%;
     } */
     .hello{
-        margin-right:10%;
+        margin-right:100%;
 }
     .box{
         display: grid;
@@ -109,6 +109,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
