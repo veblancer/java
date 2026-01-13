@@ -91,10 +91,13 @@
     .nav{
         width: 100%;
     }
+    .hellow{
+        margin-right:30%;
+}
     .box{
         display: grid;
         gap: 10px;
-        margin-left: 110px;
+        margin-left: 120px;
         margin-right: 100px;
         align-items: center;
         justify-content: center;
@@ -102,9 +105,10 @@
     .form{
         display: grid;
         gap: 10px;
-        margin-left: 100px;
+        margin-left: 110px;
         margin-right: 150px;
     }
 }
+
 
 
