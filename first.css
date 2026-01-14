@@ -100,10 +100,10 @@
         display: grid;
         gap: 10px;
         margin-left: 130px;
-        margin-right: 10%;
+        margin-right: 100px;
         align-items: center;
         justify-content: center;
-        text-align:center;
+    
     }
     .form{
         display: grid;
@@ -112,6 +112,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
