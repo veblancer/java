@@ -88,13 +88,13 @@
 }
 
 @media (max-width : 560px){
-    .nav{
+    /* .nav{
         justify-content:center;
         text-align:center;
         align-items:center;
         width: 100%;
         margin-right:10%;
-    }
+    } */
    
     .box{
         display: grid;
@@ -112,6 +112,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
