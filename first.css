@@ -10,7 +10,7 @@
 .hello{
     text-align: center;
    padding: 0 20px 0 0;
-   margin-left: 25%;
+   margin-left: 15%;
 }
 .out{
      text-align: center;
@@ -88,13 +88,12 @@
 }
 
 @media (max-width : 560px){
-    /* .nav{
-        justify-content:center;
-        text-align:center;
-        align-items:center;
+    .nav{
+        
+    
+        
         width: 100%;
-        margin-right:10%;
-    } */
+    }
    
     .box{
         display: grid;
@@ -112,6 +111,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
