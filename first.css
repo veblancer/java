@@ -89,6 +89,8 @@
 
 @media (max-width : 560px){
     .nav{
+        justify-content:center;
+        text-align:center;
         width: 100%;
     }
    
@@ -107,6 +109,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
