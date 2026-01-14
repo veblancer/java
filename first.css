@@ -10,7 +10,7 @@
 .hello{
     text-align: center;
    padding: 0 20px 0 0;
-   margin-left: 0;
+   margin-left: 8%;
 }
 .out{
      text-align: center;
@@ -99,7 +99,7 @@
         display: grid;
         gap: 10px;
         margin-left: 130px;
-        margin-right: 120px;
+        margin-right: 110px;
         align-items: center;
         justify-content: center;
     
@@ -111,6 +111,7 @@
         margin-right: 120px;
     }
 }
+
 
 
 
